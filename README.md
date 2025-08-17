@@ -3,8 +3,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](LICENSE) ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
 
 
-I create and share documents to help bring clarity and understanding through structured visualizations.
-
+I share documents to help bring clarity and understanding through structured visualizations.
 ## 📖 Contents
 This repository contains derivative works organizing public information and my thoughts on information technology, security, and privacy:
  - [Diagrams](diagrams/) → Process flows, security controls
