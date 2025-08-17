@@ -12,13 +12,11 @@ The goal is to share structured visualizations of public information in ways tha
 
 Contributions, corrections, and suggestions are welcome, refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
----
-
 ## 📜 License
-
+© 2025 Benoit H. Dicaire. Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 Trademarks and service marks remain the property of their respective owners.
-All content here is published under the **[Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE)**.  
 
+All content here is published under the **[Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE)**.  
 - ✅ You can **share** and **adapt** the material  
 - ✅ You **must give attribution** to Benoit H. Dicaire  
 - ❌ You **cannot use** the material for commercial purposes without permission  
