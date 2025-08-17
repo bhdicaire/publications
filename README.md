@@ -1,6 +1,7 @@
 ![Logo](https://github.com/bhdicaire/publications/raw/main/header.png "Logo")
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](LICENSE) ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
+
 This repository contains derivative works organizing public information and my  thoughts on information technology, security, and privacy.  
 
 The goal is to share structured visualizations of public information in ways that make learning easier
