@@ -20,6 +20,34 @@ Each resource is organized in folders:
 - `/mindmaps`
 - `/diagrams`
 - `/presentations`
+
+```markdown
+.
+├── LICENSE
+├── README.md
+├── Documents                        # `.vsd`and `.vsdx`
+│   ├── notes.md
+│   ├── IT Vendors
+│   ├── Maps
+│   ├── Methodologies
+│   ├── Microsoft
+│   └── VMware Validated Design
+├── Stencils                         # `.vss` and `.vssx`
+│   ├── Computer Racks
+│   ├── Electronics
+│   ├── IT Generic
+│   ├── IT Vendors
+│   ├── IT Vendors (Legacy)
+│   ├── Methodologies
+│   └── UX
+└── Templates                         # `.vst`and `.vstx`
+    ├── Electronics
+    ├── IT Vendors
+    └── Methodologies
+
+```
+
+
 ---
 
 ## 📜 License
