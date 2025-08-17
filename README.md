@@ -6,7 +6,7 @@
 I create and share documents to help bring clarity and understanding through structured visualizations. This repository contains derivative works organizing public information and my thoughts on information technology, security, and privacy. 
 
 ## 📖 Contents
-The goal is to share structured visualizations of public information in ways that make learning easier:
+This repository contains derivative works organizing public information and my thoughts on information technology, security, and privacy:
  - [Mindmaps](mindmaps/) → PMBoK, security, architecture
  - [Diagrams](diagrams/) → Process flows, security controls
  - [Presentations](presentations/) → Slide decks and supporting presentation materials
