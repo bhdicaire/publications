@@ -7,8 +7,8 @@ I create and share documents to help bring clarity and understanding through str
 
 ## 📖 Contents
 This repository contains derivative works organizing public information and my thoughts on information technology, security, and privacy:
- - [Mindmaps](mindmaps/) → PMBoK, security, architecture
  - [Diagrams](diagrams/) → Process flows, security controls
+ - [Mindmaps](mindmaps/) → PMBoK, security, architecture
  - [Presentations](presentations/) → Slide decks and supporting presentation materials
 
 Contributions, corrections, and suggestions are welcome, refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
